@@ -1,0 +1,7 @@
+0.0.0.0 poki.com
+0.0.0.0 www.a10.com
+0.0.0.0 www.pogo.com
+0.0.0.0 www.gamesgames.com
+0.0.0.0 www.bigfishgames.com
+0.0.0.0 www.agame.com
+0.0.0.0 www.arkadium.com
